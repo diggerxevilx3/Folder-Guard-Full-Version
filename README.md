@@ -238,4 +238,4 @@ This repository serves as the official landing page for Folder Guard. The softwa
 **Get the most recent version of Folder Guard today!**
 
 ---
-**Last updated:** 2026-10-25 22:58:38 UTC
+**Last updated:** 2026-10-26 01:02:43 UTC
